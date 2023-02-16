@@ -3,9 +3,9 @@
 
 ## Percentage of minimum years of experience
 
-* Majority of the population can be found in the first bucket of a minimum of 0-5 years of experience. This might suggest frequent job chnages. 
+* Majority of the population can be found in the first bucket with a minimum of 0-5 years of experience. This might suggest frequent job changes. 
 * You can also see that each bucket gets smaller as the years of experience increases, which might support the notion that not very many people stay 
-within the same role for too long.
+within the same role/industry for too long.
 
 
 ## Range of salary based on the minimum years of experience
